@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #e35869;
+  font-family: 'Rubik', sans-serif;
+}
+input{
+	padding:5px;
+}
+
+.div1
+        {
+             height: 100px;
+            background-color:white;
+            border:4px;
+            position: absolute;
+            height:400px;
+            width :900px;
+             left :300px;
+            top : 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+             flex-direction: column;
+               
+        }
+        .div2
+        {
+             align-items: center;
+            background-color:white;
+            position: absolute;
+            height:auto;
+            width :auto;
+            left :10px;
+            
+            
+               
+        }
+        .div3
+        {
+             height: 100px;
+            background-color:white;
+            border:4px;
+            border-color:black;
+            position: absolute;
+            height:auto;
+            width :auto;
+            left :400px;
+            
+            
+               
+        }
+        .div4
+        {
+            background-color:white;
+            border:4px;
+            border-color:black;
+            height:300px;
+            width :500px;
+            margin:auto;
+            margin-top:100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+        }
+         .div5
+        {
+            background-color:white;
+            border:4px;
+            border-color:black;
+            height:auto;
+            width :500px;
+            margin:auto;
+            margin-top:100px;
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            flex-direction: column;
+         }
+         .div6
+        {
+            background-color:white;
+            border:4px;
+            border-color:black;
+            height:auto;
+            width :auto;
+            margin:auto;
+            margin-top:10px;
+            display: flex;
+            justify-content:space-between;
+            align-items:flex-start;
+            flex-direction: column;
+         }
+          .div6
+        {
+        vertical-align:-2px;
+        }
+        
+         table {
+  border-spacing: 30px;
+}
